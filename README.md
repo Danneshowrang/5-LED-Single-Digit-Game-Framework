@@ -15,4 +15,6 @@ https://github.com/user-attachments/assets/fcd69f1e-7992-4485-8c08-4d28ea83ac2f
 <img width="920" height="947" alt="Screenshot 2026-07-12 at 8 49 39 AM" src="https://github.com/user-attachments/assets/29595908-f825-446e-84e3-abc6417478d9" />
 <img width="1436" height="826" alt="Screenshot 2026-07-12 at 8 18 27 AM" src="https://github.com/user-attachments/assets/43101b67-bc8b-4bc4-a30c-0335e984c713" />
 
+# BOM
+<img width="409" height="282" alt="Screenshot 2026-07-12 at 9 24 52 AM" src="https://github.com/user-attachments/assets/e4d5c94c-64e2-4d65-bd6a-29dcc4ea4092" />
 
